@@ -23,6 +23,7 @@ Prismatic Selection+ is a lightweight client-side unofficial neoforge mod port f
 - Neoforge 26.2.0 or newer
 - Forgified Fabric API
 - Java 21 or newer
+- Launchpad
 
 Mod Menu is incompatible!
 
