@@ -20,11 +20,11 @@ Prismatic Selection+ is a lightweight client-side unofficial neoforge mod port f
 ## Requirements
 
 - Minecraft 26.2
-- Fabric Loader 0.19.0 or newer
-- Fabric API
+- Neoforge 26.2.0 or newer
+- Forgified Fabric API
 - Java 21 or newer
 
-Mod Menu is optional.
+Mod Menu is incompatible!
 
 ## Controls
 
