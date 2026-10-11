@@ -10,6 +10,10 @@ authors="atmostfear12 (Original Creator), Aetheris"
 description="An unofficial NeoForge mod port of Prismatic Selection, injecting animated rainbow block borders natively into the client engine."
 displayURL="https://www.curseforge.com/"
 
+[properties]
+# Safe stub property ensuring Launchpad compatibility handling at discovery time
+"launchpad:placeholder"=true
+
 [[dependencies.neo_prismatic_selection_plus]]
 modId="neoforge"
 type="required"
@@ -30,3 +34,11 @@ type="required"
 versionRange="*"
 ordering="NONE"
 side="BOTH"
+
+[[dependencies.neo_prismatic_selection_plus]]
+modId="launchpad"
+type="required"
+versionRange="*"
+ordering="NONE"
+side="BOTH"
+
