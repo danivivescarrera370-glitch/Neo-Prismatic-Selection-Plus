@@ -1,6 +1,6 @@
 # Prismatic Selection+
 
-Prismatic Selection+ is a lightweight client-side Fabric mod for Minecraft 26.2 that replaces the vanilla block-selection outline with a customizable prismatic effect.
+Prismatic Selection+ is a lightweight client-side unofficial neoforge mod port for Minecraft 26.2 that replaces the vanilla block-selection outline with a customizable prismatic effect.
 
 ## Features
 

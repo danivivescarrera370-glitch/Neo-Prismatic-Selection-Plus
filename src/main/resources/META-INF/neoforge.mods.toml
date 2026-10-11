@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[4,)" 
+license="MIT"
+
+[[mods]]
+modId="neo_prismatic_selection_plus"
+version="1.0.0"
+displayName="Neo Prismatic Selection+"
+authors="atmostfear12 (Original Creator), Aetheris"
+description="An unofficial NeoForge mod port of Prismatic Selection, injecting animated rainbow block borders natively into the client engine."
+displayURL="https://www.curseforge.com/"
+
+[[dependencies.neo_prismatic_selection_plus]]
+modId="neoforge"
+type="required"
+versionRange="*"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.neo_prismatic_selection_plus]]
+modId="minecraft"
+type="required"
+versionRange="[26.2,26.3)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.neo_prismatic_selection_plus]]
+modId="forgified_fabric_api"
+type="required"
+versionRange="*"
+ordering="NONE"
+side="BOTH"
